@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crossfade</string>
+    <string name="storage_access_req">Приложению нужен доступ к памяти устройства</string>
+    <string name="file_not_loaded">Не удалось загрузить файл</string>
+    <string name="select_tracks">Выберите треки</string>
+    <string name="no_required_app">Ошибка</string>
+    <string name="select_track_1">Выбрать трек №1</string>
+    <string name="select_track_2">Выбрать трек №2</string>
+</resources>
